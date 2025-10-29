@@ -1,15 +1,15 @@
-<h1 align="center">✨ Hey, Nirvigna 👋</h1>
+<h1 align="center">✨ Hey, I'm Nirvigna 👋</h1>
 <p align="center">
 💻 AI & ML Enthusiast | 🚀 Web Developer | 🎯 DSA + Java Explorer
 </p>
 
 <p align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDUxNXBkYTM4NTI4bXJmMmE2NW92bDZnYXpkYmI4bXhyM3ZuaXZuYiZlcD12MV9naWZzX3NlYXJjaCZjdT1n/NgurY1o4z080Jfoyzw/giphy.gif" width="300">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZkYW9zbmExbXVma3g4em5leGFjM2RjY2NjZ3VsOGV3emhhNzg0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350">
 </p>
 
 ---
 
-### 🌸 About Me
+###  About Me
 - 🎓 B.Tech CSE | Turning caffeine into code  
 - 🤖 Learning AI & ML with chaos and curiosity  
 - 🛠️ Building small projects with big ambition  
@@ -62,10 +62,5 @@
 </p>
 
 ---
+ 💡 Code. Learn. Build. Repeat.
 
-### 👁 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/Nirvigna21/count.svg)
-
----
-
-✨ > execute(growth.sh)
