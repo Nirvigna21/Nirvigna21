@@ -37,12 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC?logo=visualstudiocode&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nirvigna21&theme=radical&show_icons=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirvigna21&theme=radical" />
 </p>
 
 ---
