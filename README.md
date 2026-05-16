@@ -1,38 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=heyy+there+👋;welcome+to+my+tech+corner+💻;AI+%7C+ML+%7C+Full+Stack+🚀" />
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Visits&color=ff69b4&style=for-the-badge"/>
+<table>
+<tr>
+<td>
+
+```diff
++ 👩‍💻 Name: Nirvigna
+# 🎓 Role: Pre-final Year CSE Student @ CMRCET
+! 💖 Interests: AI/ML • Full Stack • Open Source
+- 📚 Currently Learning: DSA • System Design • Deep Learning
++ 🚀 Open To: Internships
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-# 🌷 About Me
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```yaml
-name: Nirvigna
-role: Pre-final Year CSE Student @ CMRCET
-interests:
-  - AI/ML
-  - Full Stack Development
-  - Open Source
-currently_learning:
-  - DSA
-  - System Design
-  - Deep Learning
-open_to: Internships 🚀
-```
-
-- 💻 Building projects that blend design + engineering
-- 🌱 Currently exploring AI, backend systems & product building
-- 🎧 Coding with Taylor Swift playlists on loop
-
 <br>
 
----
 
 # 🌐 Connect With Me
 
@@ -68,23 +57,22 @@ open_to: Internships 🚀
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=10"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Nirvigna21&show_icons=true&theme=tokyonight&border_radius=10"/>
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border_radius=10"/>
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirvigna21&theme=tokyonight&border_radius=10"/>
 
 <br>
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&border_radius=10"/>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvigna21&layout=compact&theme=tokyonight&border_radius=10"/>
 
 </div>
-
 ---
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nirvigna21&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 
 </div>
 
@@ -94,7 +82,7 @@ open_to: Internships 🚀
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirvigna21&theme=react-dark&hide_border=true"/>
 
 </div>
 
