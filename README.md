@@ -1,60 +1,145 @@
-<h1 align="center">✨ Hey, I'm Nirvigna 👋</h1>
-<p align="center">
-💻 AI & ML Enthusiast | 🚀 Web Developer | 🎯 DSA + Java Explorer
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZkYW9zbmExbXVma3g4em5leGFjM2RjY2NjZ3VsOGV3emhhNzg0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=heyy+there+👋;welcome+to+my+tech+corner+💻;AI+%7C+ML+%7C+Full+Stack+🚀" />
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Visits&color=ff69b4&style=for-the-badge"/>
 
-###  About Me
-- 🎓 B.Tech CSE | Turning caffeine into code  
-- 🤖 Learning AI & ML with chaos and curiosity  
-- 🛠️ Building small projects with big ambition  
-- 🚀 Grinding DSA & Java — one bug at a time  
-  
----
-
-### 🛠 Tech Arsenal
-#### 🧩 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-
-#### 🧠 AI & Data  
-![Sklearn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-
-#### 🌐 Web  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-
-#### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC?logo=visualstudiocode&logoColor=white)
-
-</p>
+</div>
 
 ---
 
-### 🌟 Featured Projects
-| Project | Description |
-|--------|-------------|
-| 🎬 **Movie Prediction ML App** | ML + Flask | Hit/Flop predictor |
-| ✅ **Habit Tracker App** | Track habits daily |
-| 🔒 **Blockchain Budget Tracker** | Expense security app |
+# 🌷 About Me
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```yaml
+name: Nirvigna
+role: Pre-final Year CSE Student @ CMRCET
+interests:
+  - AI/ML
+  - Full Stack Development
+  - Open Source
+currently_learning:
+  - DSA
+  - System Design
+  - Deep Learning
+open_to: Internships 🚀
+```
+
+- 💻 Building projects that blend design + engineering
+- 🌱 Currently exploring AI, backend systems & product building
+- 🎧 Coding with Taylor Swift playlists on loop
+
+<br>
 
 ---
 
-### 👥 Connect With Me
-<p>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nirvigna-dumalwad-921586360/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-</p>
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/Nirvigna21">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dumalwadnirvigna@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nirvigna21">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
- 💡 Code. Learn. Build. Repeat.
 
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css,react,nodejs,mysql,mongodb,git,github,vscode" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=10"/>
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border_radius=10"/>
+
+<br>
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&border_radius=10"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌸 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Nirvigna21/scholaris-research">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=radical"/>
+</a>
+
+<a href="https://github.com/Nirvigna21/NyayaMitra">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=radical"/>
+</a>
+
+</div>
+
+---
+
+# ✨ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Nirvigna21/Nirvigna21/output/snake.svg" alt="snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### made with love & taylor swift playlists 🎀🎧
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+
+</div>
