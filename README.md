@@ -154,3 +154,9 @@ class Nirvigna():
 
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvigna21&layout=compact&theme=tokyonight&border_radius=10"/>
 </div>
+
+<h2 align="center"> Contribution Snake </h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nirvigna21/Nirvigna21/output/snake.svg" />
+</div>
